@@ -1,9 +1,9 @@
 ---
-title: Granular Certificates (GC)
+title: ReCert -  Re-Certification for Granular Certificates
 nextjs:
   metadata:
-    title: Granular Certificates (GC)
-    description: Comprehensive guide on Granular Certificates , their structure, real-time tracking, and benefits.
+    title: ReCert -  Re-Certification for Granular Certificates
+    description: ReCert framework is based on the ReCertification of Granular Certificates
 ---
 
 Granular Certificates (GCs) represent the next generation of Energy Attribute Certificates (EACs), enabling **real-time energy tracking** and improved transparency in renewable energy markets. Unlike traditional EACs, which cover monthly or yearly periods, GCs provide **hourly or even sub-hourly** data for energy generation and consumption.
